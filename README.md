@@ -55,7 +55,7 @@
 3. Update User.php by this code in App/User.php
 
 
-	<?php
+	    <?php
 
 		namespace App;
 
